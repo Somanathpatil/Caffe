@@ -88,9 +88,12 @@ const AboutUs = () => (
               <h2 className='text-xl sm:text-2xl md:text-3xl  font-serif text-[saddlebrown] mb-6 leading-light'>
                   Start your coffee Journey with Us
               </h2>
-              <button className='bg-gradient-to-r from-[saddlebrown] to-[sienna] text-white text-base '>
-
+              <button className='bg-gradient-to-r from-[saddlebrown] to-[sienna] text-white text-base sm-text-lg md:text-xl  py-4 px-8 rounded-full hover:shadow-lg transition-all duration-300 font-medium transform hover:scale-105'>
+                  join US &rarr;
               </button>
+              <p className='mt-4 text-[rostbrown] font-medium italic text-sm md-text-xl'>
+                  Join 50,000+ coffee lovers worldwide 
+              </p>
           </div>
       </div>
     </div>
