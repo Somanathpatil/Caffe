@@ -5,7 +5,6 @@ import Discover from './components/Discover'
 import Menu from './components/Menu'
 import AboutUs from './components/AboutUs'
 import Testimonial from './components/Testimonial'
-import Footer from './components/Footer'
 
 
 
@@ -18,7 +17,6 @@ const App = () => {
       <Menu/>
       <AboutUs/>
       <Testimonial/>
-      <Footer/>
     </>
   )
 }
