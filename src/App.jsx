@@ -16,6 +16,8 @@ const App = () => {
       <Discover/>
       <Menu/>
       <AboutUs/>
+
+      
       <Testimonial/>
     </>
   )
